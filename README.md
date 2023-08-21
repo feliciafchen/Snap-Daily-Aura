@@ -4,7 +4,7 @@
 
 # How to use
 
-This is a showcase of Daily Aura, an interactive mental health check-in feature within Snapchat. You can navigate to the Daily Aura screen either through the stories screen or the chat screen.
+This is a showcase of Daily Aura, an interactive mental health check-in prototype feature created for Snapchat. You can navigate to the Daily Aura screen either through the stories or chat tabs of the application.
 
 ## 1. Navigate to the feature
 
@@ -16,7 +16,7 @@ This is the Daily Aura page. Click on the desired icon for each question that be
 
 ## 3. Receive your Daily Aura !
 
-A modul displaying your AI-generated will appear. Pressing "Share My Daily Aura" will take you back to the the screen you were located at previous to tapping the Daily Aura feature. You will notice that your aura is displayed behind your bitmoji
+A modal displaying your AI-generated will appear. Pressing "Share My Daily Aura" will take you back to the the screen you were located at previous to tapping the Daily Aura feature. You will notice that your aura is displayed behind your bitmoji.
 
 ![](https://media.giphy.com/media/DozuP6y9yamoL5J8zz/giphy.gif)![](https://media.giphy.com/media/60SCYp1XzYlk2BBzx2/giphy.gif)
 
