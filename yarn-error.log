@@ -1,0 +1,69 @@
+Arguments: 
+  /Users/jennakim/.nvm/versions/node/v20.2.0/bin/node /Users/jennakim/.nvm/versions/node/v20.2.0/bin/yarn
+
+PATH: 
+  /Users/jennakim/miniconda3/bin:/Users/jennakim/miniconda3/condabin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/Users/jennakim/.nvm/versions/node/v20.2.0/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/mysql/bin:/Library/Apple/usr/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.2.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error [ERR_SOCKET_CONNECTION_TIMEOUT]: Socket connection timeout
+      at new NodeError (node:internal/errors:399:5)
+      at internalConnectMultiple (node:net:1099:20)
+      at Timeout.internalConnectMultipleTimeout (node:net:1638:3)
+      at listOnTimeout (node:internal/timers:575:11)
+      at process.processTimers (node:internal/timers:514:7)
+
+npm manifest: 
+  {
+    "name": "chatsnap",
+    "version": "1.0.0",
+    "main": "node_modules/expo/AppEntry.js",
+    "scripts": {
+      "start": "expo start",
+      "android": "expo start --android",
+      "ios": "expo start --ios",
+      "web": "expo start --web",
+      "eject": "expo eject",
+      "debug": "open 'rndebugger://set-debugger-loc?host=localhost&port=19000'"
+    },
+    "dependencies": {
+      "@react-navigation/bottom-tabs": "^6.3.2",
+      "@react-navigation/native": "^6.0.11",
+      "@react-navigation/stack": "^6.2.2",
+      "expo": "^49.0.0",
+      "expo-camera": "~13.4.2",
+      "expo-image-picker": "~14.3.1",
+      "expo-location": "~16.1.0",
+      "expo-media-library": "~15.4.0",
+      "expo-sharing": "~11.5.0",
+      "expo-status-bar": "~1.6.0",
+      "firebase": "^9.9.1",
+      "react": "18.2.0",
+      "react-dom": "18.2.0",
+      "react-native": "0.72.3",
+      "react-native-gesture-handler": "~2.12.0",
+      "react-native-gifted-chat": "^1.0.4",
+      "react-native-maps": "1.7.1",
+      "react-native-screens": "~3.22.0",
+      "react-native-vision-camera": "^2.14.0",
+      "react-native-web": "~0.19.6"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.20.0"
+    },
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
