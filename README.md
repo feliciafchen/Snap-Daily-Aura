@@ -65,3 +65,7 @@ To download and set up Expo Go, the app needed to run our feature, follow these 
 
 4. Scan our QR code with your phone camera or with a QR code scanner. A banner will appear prompting you to open the Expo app. Click on it.
 5. You have now accessed the showcase of Daily Aura.
+
+## Prototype Pitch Presentation:
+
+[Copy of Mental Health Final Showcase Presentation.pptx](https://github.com/feliciafchen/Snap-Daily-Aura/files/12526762/Copy.of.Mental.Health.Final.Showcase.Presentation.pptx)
